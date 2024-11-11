@@ -1,0 +1,17 @@
+.container {
+    max-width: 900px;
+    margin: 4rem auto;
+}
+
+.container h2 {
+    width: 4rem;
+    margin-bottom: 2rem;
+    border-bottom: 4px solid #53c60b;
+}
+
+.subContainer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
